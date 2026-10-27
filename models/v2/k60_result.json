@@ -1,0 +1,1 @@
+{"k": 60, "seed": 3, "params": 11282, "size_kb": 44.0703125, "threshold": 0.017452551051974297, "tune_balanced_accuracy": 0.9973486849852724, "balanced_accuracy": 0.9972899695262958, "recall": 0.9997603542053058, "specificity": 0.9948195848472857, "roc_auc": 0.9989676633346234}

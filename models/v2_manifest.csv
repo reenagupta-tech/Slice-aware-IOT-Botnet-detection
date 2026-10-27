@@ -1,0 +1,11 @@
+variant,file,threshold
+all115_fp32 (reference),v2_all115_fp32__reference_.pt,0.016514448449015617
+top20_fp32,v2_top20_fp32.pt,0.2183030064702037
+top20_unstructured50,v2_top20_unstructured50.pt,0.22500630173087208
+top20_unstructured50+int8,v2_top20_unstructured50_int8.pt,0.22506875273585414
+top20_unstructured70,v2_top20_unstructured70.pt,0.2036164104938507
+top20_unstructured90,v2_top20_unstructured90.pt,0.2166016304492951
+top20_structured75,v2_top20_structured75.pt,0.2183397666811946
+top20_structured50,v2_top20_structured50.pt,0.21833622103929556
+top20_structured50+int8,v2_top20_structured50_int8.pt,0.21831015986204158
+top20_int8,v2_top20_int8.pt,0.21829236680269273

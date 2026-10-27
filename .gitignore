@@ -1,0 +1,18 @@
+# data and generated files (too large for GitHub)
+nbaiot_data/
+prepared_data/
+benchmark_bundle/
+*.rar
+*.zip
+*.csv.gz
+
+# trained binaries and caches
+__pycache__/
+*.pyc
+*.pkl
+.venv/
+env/
+
+# keep the small result tables
+!results/
+!results/*.csv
