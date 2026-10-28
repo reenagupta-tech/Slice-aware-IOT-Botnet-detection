@@ -7,9 +7,8 @@ B.Tech project, Delhi Technological University (DTU), Department of Information 
 | | |
 |---|---|
 | Team | Simran (2K23/IT/160), Reena Gupta (2K23/IT/202) |
-| Supervisor | _add supervisor name_ |
-| Group | _add group number_ |
-
+| Supervisor | Dr. Anamika Chauhan |
+| Group | Group No. 160 |
 ## What this project does
 
 IoT devices are attacked by botnets such as Mirai and BASHLITE, and the detector that catches them has to run on very different networks. A 5G network is split into virtual slices (eMBB, URLLC, mMTC) with different CPU, memory and latency limits. This project asks: **how small and fast can a botnet detector be made, and how does it behave inside each slice?**
